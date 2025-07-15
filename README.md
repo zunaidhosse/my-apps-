@@ -43,4 +43,4 @@ Follow these steps to upload the project to GitHub and deploy it as a live websi
 2.  Once it's ready, a green bar will appear at the top of the Pages settings with a link to your live site. It will look something like `https://<your-username>.github.io/<your-repository-name>/`.
 3.  Click the link to visit your live PWA!
 
-Now your app is live. When you visit the URL on a supported device (like Chrome on Android or Safari on iOS), you should see the "Add to Home Screen" button, allowing you to install it. After installation, the app will be accessible from your home screen and will work offline.
+Now your app is live. When you visit the URL on a supported device (like Chrome on Android or Safari on iOS), you should see the "Add to Home Screen" button, allowing you to install it. After installation, the app will be accessible from your home screen and will work offline."# my-apps" 
